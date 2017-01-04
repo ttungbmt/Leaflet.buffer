@@ -1,6 +1,6 @@
 {
   "name": "leaflet-buffer",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Create a buffer around shapes drawn with [Leaflet.draw](https://github.com/Leaflet/Leaflet.draw).",
   "main": "index.js",
   "scripts": {
